@@ -1,0 +1,15 @@
+.banner {
+    background-color: #fceae8;
+}
+
+.btn-color {
+    color: white;
+    background-image: linear-gradient(#ff0b5d, rgb(238, 50, 144));
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+
+.btn-color:hover {
+    color: black;
+}
